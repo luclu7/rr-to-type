@@ -1,6 +1,6 @@
 {
-  "name": "@luclu7/rr-to-type",
-  "version": "1.0.2",
+  "name": "rr-to-type",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "description": "Converts DNS RR number to a string",
@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/luclu7/rr-to-type/issues"
   },
-  "homepage": "https://github.com/luclu7/rr-to-type#readme",
-  "dependencies": {
-    "rr-to-type": "luclu7/rr-to-type"
-  }
+  "homepage": "https://github.com/luclu7/rr-to-type#readme"
 }
