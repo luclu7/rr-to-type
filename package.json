@@ -1,6 +1,6 @@
 {
   "name": "@luclu7/rr-to-type",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "description": "Converts DNS RR number to a string",
