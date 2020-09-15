@@ -1,8 +1,7 @@
 {
   "name": "@luclu7/rr-to-type",
   "version": "1.0.0",
-  "main": "rrtotype.js.js",
-  "git": "https://github.com/luclu7/rr-to-type",
+  "main": "index.js",
   "license": "MIT",
   "description": "Converts DNS RR number to a string",
   "scripts": {

@@ -1,4 +1,6 @@
-export function RRToType(number) {
+'use strict';
+
+module.exports = function RRToType(number) {
     switch (number) {
         case 1:
             return "A";
